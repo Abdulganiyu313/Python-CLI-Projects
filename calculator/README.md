@@ -60,10 +60,10 @@ Help command:
 ## 🚀 How to Run
 Make sure you have Python 3.8+ installed.
 
-# Navigate to project root
+### Navigate to project root
 cd path/to/project
 
-# Run the calculator
+### Run the calculator
 python -m calculator.main
 When prompted:
 
@@ -72,7 +72,7 @@ Choose 1 for Classic Mode
 Choose 2 for Pro Mode
 
 ## 💻 Example Usage
-# Classic Mode
+### Classic Mode
 
 [Classic Mode] Step-by-step calculator
 Enter the first number: 12
@@ -80,7 +80,7 @@ Enter the operation (+, -, *, /): *
 Enter the second number: 5
 = 60
 
-# Pro Mode
+### Pro Mode
 [Pro Mode] Expression calculator (type :help for commands)
 >>> 2*(3+4)
 = 14
